@@ -10162,6 +10162,9 @@ footer .vendor-license a {
 
 /* smartphone */
 @media (max-width: 767px) {
+  .nav > li.nav-icon {
+    display: inline-flex;
+    padding: 0 10px; }
   #typeform-full {
     height: 38em;
     display: inline-block; }

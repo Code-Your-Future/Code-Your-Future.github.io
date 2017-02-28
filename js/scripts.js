@@ -9,4 +9,18 @@ jQuery(document).ready(function() {
       $('html, body').stop().animate({scrollTop: scroll_to}, 1000);
     }
   });
+
+  /* Smooth Scrolling */
+  $('a.scroll').on('click', function(e) {
+    target = this.hash;
+    e.preventDefault();
+    // animate
+    $('html, body').animate({
+      scrollTop: $(this.hash).offset().top - 57
+    }, 1000, function() {
+      // when done, add hash to url
+      // (default click behaviour)
+      window.location.hash = target;
+    });
+  });
 });
