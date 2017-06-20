@@ -1,17 +1,22 @@
 {
   "main.css": "static/css/main.246485df.css",
   "main.css.map": "static/css/main.246485df.css.map",
-  "main.js": "static/js/main.add72736.js",
-  "main.js.map": "static/js/main.add72736.js.map",
+  "main.js": "static/js/main.71e38ffb.js",
+  "main.js.map": "static/js/main.71e38ffb.js.map",
   "static/media/amit.jpg": "static/media/amit.1b64dcb1.jpg",
+  "static/media/bex.jpg": "static/media/bex.ff1241a7.jpg",
   "static/media/claudia.jpg": "static/media/claudia.b35e6693.jpg",
   "static/media/cyf_brand.png": "static/media/cyf_brand.fbcea877.png",
   "static/media/email-icon.svg": "static/media/email-icon.14b25ceb.svg",
   "static/media/fb_logo.svg": "static/media/fb_logo.ab92ad6d.svg",
+  "static/media/german.jpg": "static/media/german.47f11405.jpg",
   "static/media/index.scss": "static/media/index.18e9058c.scss",
   "static/media/james.png": "static/media/james.4eadcacb.png",
   "static/media/kash.jpg": "static/media/kash.16e0f0bf.jpg",
   "static/media/linkedin-logo.svg": "static/media/linkedin-logo.7658ffb2.svg",
+  "static/media/mozafar.jpg": "static/media/mozafar.611e4ca0.jpg",
+  "static/media/nate.jpg": "static/media/nate.44a9ba3d.jpg",
   "static/media/simon.jpg": "static/media/simon.0ad0ccb3.jpg",
-  "static/media/twitter-silhouette.svg": "static/media/twitter-silhouette.587a4df2.svg"
+  "static/media/twitter-silhouette.svg": "static/media/twitter-silhouette.587a4df2.svg",
+  "static/media/will.jpg": "static/media/will.3d6765ec.jpg"
 }
