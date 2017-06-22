@@ -1,9 +1,11 @@
 {
-  "main.js": "static/js/main.6b470fa0.js",
-  "main.js.map": "static/js/main.6b470fa0.js.map",
+  "main.js": "static/js/main.458ee249.js",
+  "main.js.map": "static/js/main.458ee249.js.map",
   "static/media/amit.jpg": "static/media/amit.430ca651.jpg",
   "static/media/bex.jpg": "static/media/bex.5b6e82e4.jpg",
   "static/media/claudia.jpg": "static/media/claudia.1143c7b8.jpg",
+  "static/media/code.svg": "static/media/code.66441ed5.svg",
+  "static/media/conference-hall.svg": "static/media/conference-hall.a97da1ed.svg",
   "static/media/cyf_brand.png": "static/media/cyf_brand.fbcea877.png",
   "static/media/email-icon.svg": "static/media/email-icon.14b25ceb.svg",
   "static/media/fb_logo.svg": "static/media/fb_logo.ab92ad6d.svg",
@@ -11,10 +13,13 @@
   "static/media/index.scss": "static/media/index.18e9058c.scss",
   "static/media/james.png": "static/media/james.4eadcacb.png",
   "static/media/kash.jpg": "static/media/kash.16e0f0bf.jpg",
+  "static/media/laptop.svg": "static/media/laptop.78b49b14.svg",
   "static/media/linkedin-logo.svg": "static/media/linkedin-logo.7658ffb2.svg",
   "static/media/mozafar.jpg": "static/media/mozafar.65181414.jpg",
   "static/media/nate.jpg": "static/media/nate.44a9ba3d.jpg",
+  "static/media/pipedrive.png": "static/media/pipedrive.7accd6d4.png",
   "static/media/simon.jpg": "static/media/simon.718b6348.jpg",
+  "static/media/ticketmaster.png": "static/media/ticketmaster.4e3e2ba6.png",
   "static/media/twitter-silhouette.svg": "static/media/twitter-silhouette.587a4df2.svg",
   "static/media/will.jpg": "static/media/will.97e2c509.jpg"
 }

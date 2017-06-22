@@ -9449,7 +9449,9 @@ img {
 
 /***** General style, all sections *****/
 .section-container {
-  margin: 0 auto; }
+  margin: 0 auto;
+  padding: 30px 0;
+}
 
 .section-container-gray {
   background: #f8f8f8; }
