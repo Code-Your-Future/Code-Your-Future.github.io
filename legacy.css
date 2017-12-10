@@ -9282,6 +9282,8 @@ you can use the generic selector below, but it's slower:
   content: "\f20c"; }
 
 input[type="text"],
+input[type="email"],
+input[type="tel"],
 textarea,
 textarea.form-control {
   margin: 0;
@@ -9315,13 +9317,13 @@ textarea.form-control:focus {
   box-shadow: none; }
 
 input[type="text"]:-moz-placeholder, textarea:-moz-placeholder, textarea.form-control:-moz-placeholder {
-  color: #fff; }
+  color: #999; }
 
 input[type="text"]:-ms-input-placeholder, textarea:-ms-input-placeholder, textarea.form-control:-ms-input-placeholder {
-  color: #fff; }
+  color: #999; }
 
 input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placeholder, textarea.form-control::-webkit-input-placeholder {
-  color: #fff; }
+  color: #999; }
 
 button.btn {
   height: 52px;
