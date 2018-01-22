@@ -1564,10 +1564,6 @@ pre code {
   margin-right: auto;
   margin-left: auto; }
 
-@media (min-width: 768px) {
-  .container {
-    width: 750px; } }
-
 @media (min-width: 992px) {
   .container {
     width: 970px; } }
@@ -9410,19 +9406,6 @@ button.btn:focus {
     text-align: center; }
   .divider-1 span {
     width: 200px; }
-  .page-title {
-    padding-top: 200px;
-    padding-bottom: 150px; }
-  .page-title-text {
-    width: 100%;
-    padding-left: 15px;
-    padding-right: 15px; }
-  .page-title-bottom-link {
-    padding-top: 20px;
-    padding-bottom: 2px; }
-  .page-title-bottom-link .big-link-1, .page-title-bottom-link .big-link-2 {
-    margin-top: 5px;
-    margin-bottom: 5px; }
   .clients-text h3 {
     margin-top: 30px;
     text-align: center; }
@@ -9759,35 +9742,6 @@ ul.navbar-nav li a.big-link-1:hover {
   font-weight: 900;
   letter-spacing: 2px; }
 
-/***** Page title *****/
-.page-title {
-  /*margin-top: 55px;*/
-  padding: 260px 0 210px 0;
-  background: url("../img/backgrounds/1.jpg");
-  background-size: cover;
-  background-repeat: no-repeat; }
-
-.page-title-text {
-  margin: 0 auto;
-  background-color: rgba(62, 100, 132, 0.42);
-  padding: 10px;
-  color: #fff; }
-
-.page-title-text h1 {
-  text-shadow: 0 1px 6px rgba(51, 51, 51, 0.2);
-  font-weight: 100;
-  font-size: 4em;
-  color: #fff; }
-
-.page-title-text p {
-  margin-top: 20px;
-  font-size: 22px;
-  line-height: 36px;
-  text-shadow: 0 1px 5px rgba(51, 51, 51, 0.4); }
-
-.page-title-bottom-link {
-  padding-top: 25px;
-  padding-bottom: 7px; }
 
 /****** Top section ******/
 .top-section {
@@ -9869,9 +9823,6 @@ ul.navbar-nav li a.big-link-1:hover {
 .help-section h3 {
   color: #000; }
 
-.hack-your-future {
-  padding-top: 45px; }
-
 .block-2-box ul span.list-icon img {
   padding-right: 10px;
   vertical-align: middle;
@@ -9922,38 +9873,11 @@ ul.navbar-nav li a.big-link-1:hover {
   margin-top: 10px;
   margin-left: 20px; }
 
-.student-hero-wrap {
-  background: url(../img/students/students-group.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 40em; }
-
-.mentors-hero-wrap {
-  background: url(../img/mentors/mentors-group.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 40em; }
-
-.hack-your-future-hero-wrap {
-  background: url(../img/partners/hack_your_future_working.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 40em; }
-
 .index-hero {
   background: url("img/backgrounds/1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 40em; }
-
-.hack-your-future-hero-wrap h1 {
-  color: #fff; }
-
-.hack-your-future-hero-wrap p {
-  font-size: 15px;
-  color: #fff;
-  font-size: 1.5em;
-  text-shadow: 2px 1px 1px #a9a9a9; }
 
 .clients-text {
   text-align: left; }
@@ -10268,21 +10192,7 @@ footer .vendor-license a {
 @media (min-width: 768px) and (max-width: 991px) {
   iframe {
     height: 35em; }
-  .page-title {
-    padding: 160px 0 210px 0;
-    background: url(../img/backgrounds/1-768.jpg);
-    background-size: cover;
-    background-repeat: no-repeat; }
-  .student-hero-wrap {
-    background: url(../img/students/students-group.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 30em; }
-  .mentors-hero-wrap {
-    background: url(../img/mentors/mentors-group-768.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 30em; } }
+  }
 
 /* smartphone */
 @media (max-width: 767px) {
@@ -10292,19 +10202,4 @@ footer .vendor-license a {
   #typeform-full {
     height: 38em;
     display: inline-block; }
-  .page-title {
-    padding: 50px 0 210px 0;
-    background: url(../img/backgrounds/1-320.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 36em; }
-  .student-hero-wrap {
-    background: url(../img/students/students-group.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 19em; }
-  .mentors-hero-wrap {
-    background: url(../img/mentors/mentors-group-768.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 15em; } }
+  }
