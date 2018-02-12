@@ -4118,7 +4118,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .container > .navbar-collapse,
 .container-fluid > .navbar-collapse {
   margin-right: -15px;
-  margin-left: -15px; }
+  margin-left: -15px;
+  background-color: #fff }
 
 @media (min-width: 768px) {
   .container > .navbar-header,
@@ -4352,8 +4353,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin-right: 0; } }
 
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7; }
+  background-color: #fff;
+  border-color: #e7e7e7;
+  margin-bottom: 0;
+}
 
 .navbar-default .navbar-brand {
   color: #777; }
@@ -9526,7 +9529,8 @@ h3 {
   font-weight: 700;
   color: #888;
   line-height: 30px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+}
 
 p {
   font-size: 15px; }
